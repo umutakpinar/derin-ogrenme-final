@@ -52,7 +52,7 @@
 - GitHub deposunu klonlamak için, [Colab](https://colab.research.google.com "Colab")'da bir yeni not defteri oluşturun ve aşağıdaki komutu yazın:
 
 ```shell
-!git clone https://github.com/KULLANICIADI/PROJEADI.git
+!git clone https://github.com/umutakpinar/derin-ogrenme-final.git
 ```
 
 - Projenin daha hızlı şekilde çalışması için [Colab](https://colab.research.google.com "Colab")'te ekranın üst kenarında bulunan sekmelerden *Çalışma Zamanı > Çalışma Zamanı Türünü Değiştir > T4 GPU > Kaydet* seçeneklerini uygulayın.
