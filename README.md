@@ -78,6 +78,9 @@ Sırasıyla tüm kod bloklarını, her bir kod bloğunun solundaki *Play* butonu
 ## İletişim
 
 Esma KÖROĞLU: 1200505033@ogr.klu.edu.tr
+
 Sümeyra AYDIN:1200505041@ogr.klu.edu.tr
+
 Buğra GÖRMÜŞ: 1200505068@ogr.klu.edu.tr
+
 Recep Umut AKPINAR: 1190505805@ogr.klu.edu.tr
